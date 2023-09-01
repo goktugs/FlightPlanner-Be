@@ -6,7 +6,7 @@ import fs from "fs";
  * @param {import('express').Response} res
  */
 const getAllFlights = (_req, res) => {
-  fs.readFile("./deneme.json", "utf-8", (err, data) => {
+  fs.readFile("./allFlights.json", "utf-8", (err, data) => {
     if (err) {
       console.log(err);
       res.status(500).send(err);

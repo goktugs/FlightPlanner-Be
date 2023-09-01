@@ -1,44 +1,44 @@
 [
-  { "id": 1, "airport_name": "(ADA) Adana Şakirpaşa Havalimanı" },
-  { "id": 2, "airport_name": "(ADB) İzmir Adnan Menderes Havalimanı " },
-  { "id": 3, "airport_name": "(AYT) Antalya Havalimanı " },
+  { "id": 1, "airport_name": "(ADA) Adana Şakirpaşa Havalimanı Adana" },
+  { "id": 2, "airport_name": "(ADB) İzmir Adnan Menderes Havalimanı İzmir" },
+  { "id": 3, "airport_name": "(AYT) Antalya Havalimanı Antalya" },
   {
     "id": 4,
-    "airport_name": "(ATL) Hartsfield-Jackson Atlanta Uluslararası Havalimanı "
+    "airport_name": "(ATL) Hartsfield-Jackson Atlanta Uluslararası Havalimanı Atlanta"
   },
-  { "id": 5, "airport_name": "(BJV) Bodrum Milas-Bodrum Havalimanı " },
-  { "id": 6, "airport_name": "(DLM) Dalaman Havalimanı " },
-  { "id": 7, "airport_name": "(ESB) Ankara Esenboğa Havalimanı " },
-  { "id": 8, "airport_name": "(FRA) Frankfurt Havalimanı " },
-  { "id": 9, "airport_name": "(GZT) Gaziantep Havalimanı " },
+  { "id": 5, "airport_name": "(BJV) Bodrum Milas-Bodrum Havalimanı Bodrum" },
+  { "id": 6, "airport_name": "(DLM) Dalaman Havalimanı Dalaman" },
+  { "id": 7, "airport_name": "(ESB) Ankara Esenboğa Havalimanı Ankara" },
+  { "id": 8, "airport_name": "(FRA) Frankfurt Havalimanı Frankfurt" },
+  { "id": 9, "airport_name": "(GZT) Gaziantep Havalimanı Gaziantep" },
   {
     "id": 10,
-    "airport_name": "(JFK) John F. Kennedy Uluslararası Havalimanı  "
+    "airport_name": "(JFK) John F. Kennedy Uluslararası Havalimanı New York"
   },
   {
     "id": 11,
-    "airport_name": "(LAX) Los Angeles Uluslararası Havalimanı  "
+    "airport_name": "(LAX) Los Angeles Uluslararası Havalimanı Los Angeles"
   },
-  { "id": 12, "airport_name": "(LON) Londra Heathrow Havalimanı " },
-  { "id": 13, "airport_name": "(MAD) Madrid Barajas Havalimanı " },
+  { "id": 12, "airport_name": "(LON) Londra Heathrow Havalimanı Londra" },
+  { "id": 13, "airport_name": "(MAD) Madrid Barajas Havalimanı Madrid" },
   {
     "id": 14,
-    "airport_name": "(ORD) Chicago O'Hare Uluslararası Havalimanı "
+    "airport_name": "(ORD) Chicago O'Hare Uluslararası Havalimanı Chicago"
   },
   {
     "id": 15,
-    "airport_name": "(ROM) Roma Fiumicino Uluslararası Havalimanı "
+    "airport_name": "(ROM) Roma Fiumicino Uluslararası Havalimanı Roma"
   },
   {
     "id": 16,
-    "airport_name": "(SFO) San Francisco Uluslararası Havalimanı  "
+    "airport_name": "(SFO) San Francisco Uluslararası Havalimanı San Francisco"
   },
-  { "id": 17, "airport_name": "(STO) Stockholm Arlanda Havalimanı " },
-  { "id": 18, "airport_name": "(TZX) Trabzon Havalimanı " },
-  { "id": 19, "airport_name": "(YEŞ) Bursa Yenişehir Havalimanı " },
-  { "id": 20, "airport_name": "(ATH) Atina Uluslararası Havalimanı " },
-  { "id": 21, "airport_name": "(BER) Berlin Brandenburg Havalimanı " },
-  { "id": 22, "airport_name": "(IST) İstanbul Havalimanı " },
-  { "id": 23, "airport_name": "(HEL) Helsinki-Vantaa Havalimanı " },
-  { "id": 24, "airport_name": "(VIE) Viyana Uluslararası Havalimanı " }
+  { "id": 17, "airport_name": "(STO) Stockholm Arlanda Havalimanı Stockholm" },
+  { "id": 18, "airport_name": "(TZX) Trabzon Havalimanı Trabzon" },
+  { "id": 19, "airport_name": "(YEŞ) Bursa Yenişehir Havalimanı Bursa" },
+  { "id": 20, "airport_name": "(ATH) Atina Uluslararası Havalimanı Atina" },
+  { "id": 21, "airport_name": "(BER) Berlin Brandenburg Havalimanı Berlin" },
+  { "id": 22, "airport_name": "(IST) İstanbul Havalimanı İstanbul" },
+  { "id": 23, "airport_name": "(HEL) Helsinki-Vantaa Havalimanı Helsinki" },
+  { "id": 24, "airport_name": "(VIE) Viyana Uluslararası Havalimanı Viyana" }
 ]
