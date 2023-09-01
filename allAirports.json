@@ -40,5 +40,9 @@
   { "id": 21, "airport_name": "(BER) Berlin Brandenburg Havalimanı Berlin" },
   { "id": 22, "airport_name": "(IST) İstanbul Havalimanı İstanbul" },
   { "id": 23, "airport_name": "(HEL) Helsinki-Vantaa Havalimanı Helsinki" },
-  { "id": 24, "airport_name": "(VIE) Viyana Uluslararası Havalimanı Viyana" }
+  { "id": 24, "airport_name": "(VIE) Viyana Uluslararası Havalimanı Viyana" },
+  {
+    "id": 25,
+    "airport_name": "(SAW) Sabiha Gökçen Havalimanı İstanbul"
+  }
 ]
