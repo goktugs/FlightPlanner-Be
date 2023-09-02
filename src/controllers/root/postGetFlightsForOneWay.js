@@ -1,4 +1,5 @@
 const localData = require("../../../allFlights.json");
+
 /**
  * Echo endpoint
  * @param {import('express').Request} req
@@ -6,6 +7,24 @@ const localData = require("../../../allFlights.json");
  */
 const postGetFlightsForOneWay = (req, res) => {
   const json = req.body;
+
+  const missingFields = [];
+
+  if (!json.depAirport) {
+    missingFields.push("Departure Airport");
+  }
+  if (!json.arrAirport) {
+    missingFields.push("Arrival Airport");
+  }
+  if (!json.departureDate) {
+    missingFields.push("Departure Date");
+  }
+
+  if (missingFields.length > 0) {
+    return res
+      .status(400)
+      .json({ error: `Missing fields: ${missingFields.join(", ")}` });
+  }
 
   const filteredData = localData.filter((flight) => {
     return (
