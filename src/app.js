@@ -29,7 +29,7 @@ app.use(morgan("tiny"));
 app.use("/", root);
 app.use("/api/getAllFlights", root);
 app.use("/api/getAllAirports", root);
-app.use("/api/getFlights", root);
+app.use("/api/getFlightsForOneWay", root);
 
 // Apply error handling last
 app.use(fourOhFour);
