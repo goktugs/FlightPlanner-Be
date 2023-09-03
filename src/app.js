@@ -30,6 +30,7 @@ app.use("/", root);
 app.use("/api/getAllFlights", root);
 app.use("/api/getAllAirports", root);
 app.use("/api/getFlightsForOneWay", root);
+app.use("/api/getFlightsForRoundTrip", root);
 
 // Apply error handling last
 app.use(fourOhFour);
