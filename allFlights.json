@@ -24015,61 +24015,61 @@
     "id": 2002,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-06T15:58:00.000Z",
+    "departure_date": "2023-09-06T17:33:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 124.31,
     "flight_length": 20.37,
     "airline": "KLM",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-07T12:20:00.000Z"
+    "updated_departure_date": "2023-09-07T13:55:00.000Z"
   },
   {
     "id": 2003,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-06T15:58:00.000Z",
+    "departure_date": "2023-09-06T17:33:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 98.31,
     "flight_length": 19.37,
     "airline": "Lufthansa",
     "arrival_hour": "11:53 PM",
-    "updated_departure_date": "2023-09-07T11:20:00.000Z"
+    "updated_departure_date": "2023-09-07T12:55:00.000Z"
   },
   {
     "id": 2004,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-06T15:58:00.000Z",
+    "departure_date": "2023-09-06T17:36:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 49.31,
     "flight_length": 9.37,
     "airline": "Delta Airlines",
     "arrival_hour": "1:53 PM",
-    "updated_departure_date": "2023-09-07T01:20:00.000Z"
+    "updated_departure_date": "2023-09-07T02:58:00.000Z"
   },
   {
     "id": 2005,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-06T15:58:00.000Z",
+    "departure_date": "2023-09-06T17:23:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 56.31,
     "flight_length": 19.37,
     "airline": "Emirates",
     "arrival_hour": "11:53 PM",
-    "updated_departure_date": "2023-09-07T11:20:00.000Z"
+    "updated_departure_date": "2023-09-07T12:45:00.000Z"
   },
   {
     "id": 2006,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-07T15:58:00.000Z",
+    "departure_date": "2023-09-07T17:13:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 60.31,
     "flight_length": 20.37,
     "airline": "Air France",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-08T12:20:00.000Z"
+    "updated_departure_date": "2023-09-08T13:35:00.000Z"
   },
   {
     "id": 2007,
@@ -24099,397 +24099,397 @@
     "id": 2009,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-07T15:58:00.000Z",
+    "departure_date": "2023-09-07T09:58:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 51.31,
     "flight_length": 11.37,
     "airline": "Aeroflot",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-08T03:20:00.000Z"
+    "updated_departure_date": "2023-09-07T21:20:00.000Z"
   },
   {
     "id": 2010,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-07T15:58:00.000Z",
+    "departure_date": "2023-09-07T09:16:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 113.31,
     "flight_length": 19.37,
     "airline": "Anadolu Jet",
     "arrival_hour": "11:53 PM",
-    "updated_departure_date": "2023-09-08T11:20:00.000Z"
+    "updated_departure_date": "2023-09-08T04:38:00.000Z"
   },
   {
     "id": 2011,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-08T15:58:00.000Z",
+    "departure_date": "2023-09-08T09:27:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 66.31,
     "flight_length": 15.37,
     "airline": "Lufthansa",
     "arrival_hour": "7:53 PM",
-    "updated_departure_date": "2023-09-09T07:20:00.000Z"
+    "updated_departure_date": "2023-09-09T00:49:00.000Z"
   },
   {
     "id": 2012,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-08T15:58:00.000Z",
+    "departure_date": "2023-09-08T09:38:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 123.31,
     "flight_length": 10.37,
     "airline": "American Airlines",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-09T02:20:00.000Z"
+    "updated_departure_date": "2023-09-08T20:00:00.000Z"
   },
   {
     "id": 2013,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-08T15:58:00.000Z",
+    "departure_date": "2023-09-08T21:33:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 44.31,
     "flight_length": 7.37,
     "airline": "KLM",
     "arrival_hour": "11:53 AM",
-    "updated_departure_date": "2023-09-08T23:20:00.000Z"
+    "updated_departure_date": "2023-09-09T04:55:00.000Z"
   },
   {
     "id": 2014,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-08T15:58:00.000Z",
+    "departure_date": "2023-09-08T21:58:26.000Z",
     "departure_hour": "4:31 PM",
     "price": 109.31,
     "flight_length": 14.37,
     "airline": "SunExpress",
     "arrival_hour": "6:53 PM",
-    "updated_departure_date": "2023-09-09T06:20:00.000Z"
+    "updated_departure_date": "2023-09-09T12:20:26.000Z"
   },
   {
     "id": 2015,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-08T15:58:00.000Z",
+    "departure_date": "2023-09-08T23:34:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 66.31,
     "flight_length": 18.37,
     "airline": "Pegasus",
     "arrival_hour": "10:53 PM",
-    "updated_departure_date": "2023-09-09T10:20:00.000Z"
+    "updated_departure_date": "2023-09-09T17:56:00.000Z"
   },
   {
     "id": 2016,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-10T15:58:00.000Z",
+    "departure_date": "2023-09-10T18:43:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 39.31,
     "flight_length": 18.37,
     "airline": "Anadolu Jet",
     "arrival_hour": "10:53 PM",
-    "updated_departure_date": "2023-09-11T10:20:00.000Z"
+    "updated_departure_date": "2023-09-11T13:05:00.000Z"
   },
   {
     "id": 2017,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-10T15:58:00.000Z",
+    "departure_date": "2023-09-10T16:46:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 92.31,
     "flight_length": 14.37,
     "airline": "Air France",
     "arrival_hour": "6:53 PM",
-    "updated_departure_date": "2023-09-11T06:20:00.000Z"
+    "updated_departure_date": "2023-09-11T07:08:00.000Z"
   },
   {
     "id": 2018,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-10T15:58:00.000Z",
+    "departure_date": "2023-09-10T18:24:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 100.31,
     "flight_length": 17.37,
     "airline": "Anadolu Jet",
     "arrival_hour": "9:53 PM",
-    "updated_departure_date": "2023-09-11T09:20:00.000Z"
+    "updated_departure_date": "2023-09-11T11:46:00.000Z"
   },
   {
     "id": 2019,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-10T15:58:00.000Z",
+    "departure_date": "2023-09-10T11:22:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 124.31,
     "flight_length": 9.37,
     "airline": "Emirates",
     "arrival_hour": "1:53 PM",
-    "updated_departure_date": "2023-09-11T01:20:00.000Z"
+    "updated_departure_date": "2023-09-10T20:44:00.000Z"
   },
   {
     "id": 2020,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-10T15:58:00.000Z",
+    "departure_date": "2023-09-10T11:31:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 102.31,
     "flight_length": 10.37,
     "airline": "Pegasus",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-11T02:20:00.000Z"
+    "updated_departure_date": "2023-09-10T21:53:00.000Z"
   },
   {
     "id": 2021,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-10T15:58:00.000Z",
+    "departure_date": "2023-09-10T14:26:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 64.31,
     "flight_length": 22.37,
     "airline": "Aeroflot",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-11T14:20:00.000Z"
+    "updated_departure_date": "2023-09-11T12:48:00.000Z"
   },
   {
     "id": 2022,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-11T15:58:00.000Z",
+    "departure_date": "2023-09-11T19:23:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 112.31,
     "flight_length": 10.37,
     "airline": "Etihad Airways",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-12T02:20:00.000Z"
+    "updated_departure_date": "2023-09-12T05:45:00.000Z"
   },
   {
     "id": 2023,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-11T15:58:00.000Z",
+    "departure_date": "2023-09-11T09:58:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 104.31,
     "flight_length": 15.37,
     "airline": "Qatar Airways",
     "arrival_hour": "7:53 PM",
-    "updated_departure_date": "2023-09-12T07:20:00.000Z"
+    "updated_departure_date": "2023-09-12T01:20:00.000Z"
   },
   {
     "id": 2024,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-11T15:58:00.000Z",
+    "departure_date": "2023-09-11T10:37:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 134.31,
     "flight_length": 15.37,
     "airline": "Pegasus",
     "arrival_hour": "7:53 PM",
-    "updated_departure_date": "2023-09-12T07:20:00.000Z"
+    "updated_departure_date": "2023-09-12T01:59:00.000Z"
   },
   {
     "id": 2025,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-11T15:58:00.000Z",
+    "departure_date": "2023-09-11T09:26:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 85.31,
     "flight_length": 7.37,
     "airline": "Turkish Airlines",
     "arrival_hour": "11:53 AM",
-    "updated_departure_date": "2023-09-11T23:20:00.000Z"
+    "updated_departure_date": "2023-09-11T16:48:00.000Z"
   },
   {
     "id": 2026,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-11T15:58:00.000Z",
+    "departure_date": "2023-09-11T14:26:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 119.31,
     "flight_length": 16.37,
     "airline": "Qatar Airways",
     "arrival_hour": "8:53 PM",
-    "updated_departure_date": "2023-09-12T08:20:00.000Z"
+    "updated_departure_date": "2023-09-12T06:48:00.000Z"
   },
   {
     "id": 2027,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-11T15:58:00.000Z",
+    "departure_date": "2023-09-11T09:58:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 61.31,
     "flight_length": 15.37,
     "airline": "Emirates",
     "arrival_hour": "7:53 PM",
-    "updated_departure_date": "2023-09-12T07:20:00.000Z"
+    "updated_departure_date": "2023-09-12T01:20:00.000Z"
   },
   {
     "id": 2028,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-12T15:58:00.000Z",
+    "departure_date": "2023-09-12T09:54:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 129.31,
     "flight_length": 23.37,
     "airline": "SunExpress",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-13T15:20:00.000Z"
+    "updated_departure_date": "2023-09-13T09:16:00.000Z"
   },
   {
     "id": 2029,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-12T15:58:00.000Z",
+    "departure_date": "2023-09-12T09:27:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 49.31,
     "flight_length": 12.37,
     "airline": "British Airways",
     "arrival_hour": "4:53 PM",
-    "updated_departure_date": "2023-09-13T04:20:00.000Z"
+    "updated_departure_date": "2023-09-12T21:49:00.000Z"
   },
   {
     "id": 2030,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-12T15:58:00.000Z",
+    "departure_date": "2023-09-12T09:34:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 40.31,
     "flight_length": 7.37,
     "airline": "Etihad Airways",
     "arrival_hour": "11:53 AM",
-    "updated_departure_date": "2023-09-12T23:20:00.000Z"
+    "updated_departure_date": "2023-09-12T16:56:00.000Z"
   },
   {
     "id": 2031,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-12T15:58:00.000Z",
+    "departure_date": "2023-09-12T09:34:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 41.31,
     "flight_length": 20.37,
     "airline": "Etihad Airways",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-13T12:20:00.000Z"
+    "updated_departure_date": "2023-09-13T05:56:00.000Z"
   },
   {
     "id": 2032,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-12T15:58:00.000Z",
+    "departure_date": "2023-09-12T11:34:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 112.31,
     "flight_length": 22.37,
     "airline": "Anadolu Jet",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-13T14:20:00.000Z"
+    "updated_departure_date": "2023-09-13T09:56:00.000Z"
   },
   {
     "id": 2033,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-13T15:58:00.000Z",
+    "departure_date": "2023-09-13T10:34:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 41.31,
     "flight_length": 14.37,
     "airline": "Turkish Airlines",
     "arrival_hour": "6:53 PM",
-    "updated_departure_date": "2023-09-14T06:20:00.000Z"
+    "updated_departure_date": "2023-09-14T00:56:00.000Z"
   },
   {
     "id": 2034,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-13T15:58:00.000Z",
+    "departure_date": "2023-09-13T09:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 90.31,
     "flight_length": 23.37,
     "airline": "Air France",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-14T15:20:00.000Z"
+    "updated_departure_date": "2023-09-14T08:50:00.000Z"
   },
   {
     "id": 2035,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-13T15:58:00.000Z",
+    "departure_date": "2023-09-13T09:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 120.31,
     "flight_length": 8.37,
     "airline": "Air Canada",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-14T00:20:00.000Z"
+    "updated_departure_date": "2023-09-13T17:50:00.000Z"
   },
   {
     "id": 2036,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-13T15:58:00.000Z",
+    "departure_date": "2023-09-13T09:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 77.31,
     "flight_length": 12.38,
     "airline": "Pegasus",
     "arrival_hour": "4:54 PM",
-    "updated_departure_date": "2023-09-14T04:21:00.000Z"
+    "updated_departure_date": "2023-09-13T21:51:00.000Z"
   },
   {
     "id": 2037,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-14T15:58:00.000Z",
+    "departure_date": "2023-09-14T07:33:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 128.31,
     "flight_length": 21.37,
     "airline": "Turkish Airlines",
     "arrival_hour": "1:53 PM",
-    "updated_departure_date": "2023-09-15T13:20:00.000Z"
+    "updated_departure_date": "2023-09-15T04:55:00.000Z"
   },
   {
     "id": 2038,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-14T15:58:00.000Z",
+    "departure_date": "2023-09-14T07:33:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 78.31,
     "flight_length": 15.31,
     "airline": "KLM",
     "arrival_hour": "7:50 PM",
-    "updated_departure_date": "2023-09-15T07:17:00.000Z"
+    "updated_departure_date": "2023-09-14T22:52:00.000Z"
   },
   {
     "id": 2039,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-14T15:58:00.000Z",
+    "departure_date": "2023-09-14T07:33:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 103.31,
     "flight_length": 20.37,
     "airline": "British Airways",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-15T12:20:00.000Z"
+    "updated_departure_date": "2023-09-15T03:55:00.000Z"
   },
   {
     "id": 2040,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-14T15:58:00.000Z",
+    "departure_date": "2023-09-14T07:44:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 91.31,
     "flight_length": 15.31,
     "airline": "British Airways",
     "arrival_hour": "7:50 PM",
-    "updated_departure_date": "2023-09-15T07:17:00.000Z"
+    "updated_departure_date": "2023-09-14T23:03:00.000Z"
   },
   {
     "id": 2041,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-14T15:58:00.000Z",
+    "departure_date": "2023-09-14T07:55:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 105.31,
     "flight_length": 15.31,
     "airline": "Aeroflot",
     "arrival_hour": "7:50 PM",
-    "updated_departure_date": "2023-09-15T07:17:00.000Z"
+    "updated_departure_date": "2023-09-14T23:14:00.000Z"
   },
   {
     "id": 2042,
@@ -24507,61 +24507,61 @@
     "id": 2043,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-15T15:58:00.000Z",
+    "departure_date": "2023-09-15T04:35:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 125.31,
     "flight_length": 19.37,
     "airline": "Pegasus",
     "arrival_hour": "11:53 PM",
-    "updated_departure_date": "2023-09-16T11:20:00.000Z"
+    "updated_departure_date": "2023-09-15T23:57:00.000Z"
   },
   {
     "id": 2044,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-15T15:58:00.000Z",
+    "departure_date": "2023-09-15T04:35:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 58.31,
     "flight_length": 13.31,
     "airline": "Lufthansa",
     "arrival_hour": "5:50 PM",
-    "updated_departure_date": "2023-09-16T05:17:00.000Z"
+    "updated_departure_date": "2023-09-15T17:54:00.000Z"
   },
   {
     "id": 2045,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-15T15:58:00.000Z",
+    "departure_date": "2023-09-15T04:35:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 43.31,
     "flight_length": 19.37,
     "airline": "Turkish Airlines",
     "arrival_hour": "11:53 PM",
-    "updated_departure_date": "2023-09-16T11:20:00.000Z"
+    "updated_departure_date": "2023-09-15T23:57:00.000Z"
   },
   {
     "id": 2046,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-15T15:58:00.000Z",
+    "departure_date": "2023-09-15T18:35:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 84.31,
     "flight_length": 12.31,
     "airline": "Lufthansa",
     "arrival_hour": "4:50 PM",
-    "updated_departure_date": "2023-09-16T04:17:00.000Z"
+    "updated_departure_date": "2023-09-16T06:54:00.000Z"
   },
   {
     "id": 2047,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T04:35:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 133.31,
     "flight_length": 23.37,
     "airline": "Aeroflot",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-17T15:20:00.000Z"
+    "updated_departure_date": "2023-09-17T03:57:00.000Z"
   },
   {
     "id": 2048,
@@ -24579,61 +24579,61 @@
     "id": 2049,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T17:54:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 41.31,
     "flight_length": 20.37,
     "airline": "Air Canada",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-17T12:20:00.000Z"
+    "updated_departure_date": "2023-09-17T14:16:00.000Z"
   },
   {
     "id": 2050,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T17:54:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 134.31,
     "flight_length": 6.31,
     "airline": "Air Canada",
     "arrival_hour": "10:50 AM",
-    "updated_departure_date": "2023-09-16T22:17:00.000Z"
+    "updated_departure_date": "2023-09-17T00:13:00.000Z"
   },
   {
     "id": 2051,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T17:54:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 127.31,
     "flight_length": 23.37,
     "airline": "British Airways",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-17T15:20:00.000Z"
+    "updated_departure_date": "2023-09-17T17:16:00.000Z"
   },
   {
     "id": 2052,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T19:54:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 113.31,
     "flight_length": 13.31,
     "airline": "Delta Airlines",
     "arrival_hour": "5:50 PM",
-    "updated_departure_date": "2023-09-17T05:17:00.000Z"
+    "updated_departure_date": "2023-09-17T09:13:00.000Z"
   },
   {
     "id": 2053,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T12:54:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 93.31,
     "flight_length": 7.31,
     "airline": "Lufthansa",
     "arrival_hour": "11:50 AM",
-    "updated_departure_date": "2023-09-16T23:17:00.000Z"
+    "updated_departure_date": "2023-09-16T20:13:00.000Z"
   },
   {
     "id": 2054,
@@ -24663,61 +24663,61 @@
     "id": 2056,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T04:34:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 80.31,
     "flight_length": 12.31,
     "airline": "SunExpress",
     "arrival_hour": "4:50 PM",
-    "updated_departure_date": "2023-09-17T04:17:00.000Z"
+    "updated_departure_date": "2023-09-16T16:53:00.000Z"
   },
   {
     "id": 2057,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-17T15:58:00.000Z",
+    "departure_date": "2023-09-17T04:34:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 52.31,
     "flight_length": 20.37,
     "airline": "Lufthansa",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-18T12:20:00.000Z"
+    "updated_departure_date": "2023-09-18T00:56:00.000Z"
   },
   {
     "id": 2058,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-17T15:58:00.000Z",
+    "departure_date": "2023-09-17T05:34:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 127.31,
     "flight_length": 15.31,
     "airline": "Anadolu Jet",
     "arrival_hour": "7:50 PM",
-    "updated_departure_date": "2023-09-18T07:17:00.000Z"
+    "updated_departure_date": "2023-09-17T20:53:00.000Z"
   },
   {
     "id": 2059,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-17T15:58:00.000Z",
+    "departure_date": "2023-09-17T04:17:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 81.31,
     "flight_length": 6.31,
     "airline": "Emirates",
     "arrival_hour": "10:50 AM",
-    "updated_departure_date": "2023-09-17T22:17:00.000Z"
+    "updated_departure_date": "2023-09-17T10:36:00.000Z"
   },
   {
     "id": 2060,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-17T15:58:00.000Z",
+    "departure_date": "2023-09-17T09:44:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 132.31,
     "flight_length": 23.37,
     "airline": "Turkish Airlines",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-18T15:20:00.000Z"
+    "updated_departure_date": "2023-09-18T09:06:00.000Z"
   },
   {
     "id": 2061,
@@ -24771,109 +24771,109 @@
     "id": 2065,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-18T15:58:00.000Z",
+    "departure_date": "2023-09-18T23:44:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 134.31,
     "flight_length": 10.31,
     "airline": "SunExpress",
     "arrival_hour": "2:50 PM",
-    "updated_departure_date": "2023-09-19T02:17:00.000Z"
+    "updated_departure_date": "2023-09-19T10:03:00.000Z"
   },
   {
     "id": 2066,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-18T15:58:00.000Z",
+    "departure_date": "2023-09-18T12:27:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 107.31,
     "flight_length": 10.31,
     "airline": "Lufthansa",
     "arrival_hour": "2:50 PM",
-    "updated_departure_date": "2023-09-19T02:17:00.000Z"
+    "updated_departure_date": "2023-09-18T22:46:00.000Z"
   },
   {
     "id": 2067,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-19T15:58:00.000Z",
+    "departure_date": "2023-09-19T17:58:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 133.31,
     "flight_length": 19.37,
     "airline": "Aeroflot",
     "arrival_hour": "11:53 PM",
-    "updated_departure_date": "2023-09-20T11:20:00.000Z"
+    "updated_departure_date": "2023-09-20T13:20:00.000Z"
   },
   {
     "id": 2068,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-19T15:58:00.000Z",
+    "departure_date": "2023-09-19T17:58:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 97.31,
     "flight_length": 10.31,
     "airline": "Delta Airlines",
     "arrival_hour": "2:50 PM",
-    "updated_departure_date": "2023-09-20T02:17:00.000Z"
+    "updated_departure_date": "2023-09-20T04:17:00.000Z"
   },
   {
     "id": 2069,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-19T15:58:00.000Z",
+    "departure_date": "2023-09-19T09:58:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 113.31,
     "flight_length": 14.31,
     "airline": "British Airways",
     "arrival_hour": "6:50 PM",
-    "updated_departure_date": "2023-09-20T06:17:00.000Z"
+    "updated_departure_date": "2023-09-20T00:17:00.000Z"
   },
   {
     "id": 2070,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-19T15:58:00.000Z",
+    "departure_date": "2023-09-19T03:27:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 80.31,
     "flight_length": 15.31,
     "airline": "British Airways",
     "arrival_hour": "7:50 PM",
-    "updated_departure_date": "2023-09-20T07:17:00.000Z"
+    "updated_departure_date": "2023-09-19T18:46:00.000Z"
   },
   {
     "id": 2071,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-19T15:58:00.000Z",
+    "departure_date": "2023-09-19T16:44:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 72.31,
     "flight_length": 13.31,
     "airline": "Etihad Airways",
     "arrival_hour": "5:50 PM",
-    "updated_departure_date": "2023-09-20T05:17:00.000Z"
+    "updated_departure_date": "2023-09-20T06:03:00.000Z"
   },
   {
     "id": 2072,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-20T15:58:00.000Z",
+    "departure_date": "2023-09-20T13:44:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 130.31,
     "flight_length": 12.31,
     "airline": "Emirates",
     "arrival_hour": "4:50 PM",
-    "updated_departure_date": "2023-09-21T04:17:00.000Z"
+    "updated_departure_date": "2023-09-21T02:03:00.000Z"
   },
   {
     "id": 2073,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-20T15:58:00.000Z",
+    "departure_date": "2023-09-20T16:27:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 73.31,
     "flight_length": 11.31,
     "airline": "American Airlines",
     "arrival_hour": "3:50 PM",
-    "updated_departure_date": "2023-09-21T03:17:00.000Z"
+    "updated_departure_date": "2023-09-21T03:46:00.000Z"
   },
   {
     "id": 2074,
@@ -24891,85 +24891,85 @@
     "id": 2075,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-20T15:58:00.000Z",
+    "departure_date": "2023-09-20T14:41:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 94.31,
     "flight_length": 15.31,
     "airline": "Air France",
     "arrival_hour": "7:50 PM",
-    "updated_departure_date": "2023-09-21T07:17:00.000Z"
+    "updated_departure_date": "2023-09-21T06:00:00.000Z"
   },
   {
     "id": 2076,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-20T15:58:00.000Z",
+    "departure_date": "2023-09-20T09:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 116.31,
     "flight_length": 17.37,
     "airline": "KLM",
     "arrival_hour": "9:53 PM",
-    "updated_departure_date": "2023-09-21T09:20:00.000Z"
+    "updated_departure_date": "2023-09-21T02:50:00.000Z"
   },
   {
     "id": 2077,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-22T15:58:00.000Z",
+    "departure_date": "2023-09-22T20:59:16.000Z",
     "departure_hour": "4:31 PM",
     "price": 75.31,
     "flight_length": 15.36,
     "airline": "Anadolu Jet",
     "arrival_hour": "7:53 PM",
-    "updated_departure_date": "2023-09-23T07:20:00.000Z"
+    "updated_departure_date": "2023-09-23T12:21:16.000Z"
   },
   {
     "id": 2078,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-22T15:58:00.000Z",
+    "departure_date": "2023-09-22T20:59:16.000Z",
     "departure_hour": "4:31 PM",
     "price": 65.31,
     "flight_length": 20.37,
     "airline": "Turkish Airlines",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-23T12:20:00.000Z"
+    "updated_departure_date": "2023-09-23T17:21:16.000Z"
   },
   {
     "id": 2079,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-22T15:58:00.000Z",
+    "departure_date": "2023-09-22T23:44:16.000Z",
     "departure_hour": "4:31 PM",
     "price": 75.31,
     "flight_length": 17.37,
     "airline": "SunExpress",
     "arrival_hour": "9:53 PM",
-    "updated_departure_date": "2023-09-23T09:20:00.000Z"
+    "updated_departure_date": "2023-09-23T17:06:16.000Z"
   },
   {
     "id": 2080,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-22T15:58:00.000Z",
+    "departure_date": "2023-09-22T17:51:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 90.31,
     "flight_length": 18.37,
     "airline": "Emirates",
     "arrival_hour": "10:53 PM",
-    "updated_departure_date": "2023-09-23T10:20:00.000Z"
+    "updated_departure_date": "2023-09-23T12:13:00.000Z"
   },
   {
     "id": 2081,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
-    "departure_date": "2023-09-22T15:58:00.000Z",
+    "departure_date": "2023-09-22T17:51:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 119.31,
     "flight_length": 21.37,
     "airline": "Delta Airlines",
     "arrival_hour": "1:53 PM",
-    "updated_departure_date": "2023-09-23T13:20:00.000Z"
+    "updated_departure_date": "2023-09-23T15:13:00.000Z"
   },
   {
     "id": 2082,
@@ -24987,217 +24987,217 @@
     "id": 2083,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-05T15:58:00.000Z",
+    "departure_date": "2023-09-05T17:51:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 53.31,
     "flight_length": 20.37,
     "airline": "British Airways",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-06T12:20:00.000Z"
+    "updated_departure_date": "2023-09-06T14:13:00.000Z"
   },
   {
     "id": 2084,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-05T15:58:00.000Z",
+    "departure_date": "2023-09-05T15:23:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 61.31,
     "flight_length": 6.36,
     "airline": "Delta Airlines",
     "arrival_hour": "10:53 AM",
-    "updated_departure_date": "2023-09-05T22:20:00.000Z"
+    "updated_departure_date": "2023-09-05T21:45:00.000Z"
   },
   {
     "id": 2085,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-05T15:58:00.000Z",
+    "departure_date": "2023-09-05T05:27:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 72.31,
     "flight_length": 11.36,
     "airline": "Emirates",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-06T03:20:00.000Z"
+    "updated_departure_date": "2023-09-05T16:49:00.000Z"
   },
   {
     "id": 2086,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-05T15:58:00.000Z",
+    "departure_date": "2023-09-05T02:38:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 43.31,
     "flight_length": 7.36,
     "airline": "Air Canada",
     "arrival_hour": "11:53 AM",
-    "updated_departure_date": "2023-09-05T23:20:00.000Z"
+    "updated_departure_date": "2023-09-05T10:00:00.000Z"
   },
   {
     "id": 2087,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-06T15:58:00.000Z",
+    "departure_date": "2023-09-06T04:38:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 100.31,
     "flight_length": 23.37,
     "airline": "Air Canada",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-07T15:20:00.000Z"
+    "updated_departure_date": "2023-09-07T04:00:00.000Z"
   },
   {
     "id": 2088,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-06T15:58:00.000Z",
+    "departure_date": "2023-09-06T13:38:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 44.31,
     "flight_length": 8.36,
     "airline": "Anadolu Jet",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-07T00:20:00.000Z"
+    "updated_departure_date": "2023-09-06T22:00:00.000Z"
   },
   {
     "id": 2089,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-06T15:58:00.000Z",
+    "departure_date": "2023-09-06T06:38:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 81.31,
     "flight_length": 17.37,
     "airline": "Delta Airlines",
     "arrival_hour": "9:53 PM",
-    "updated_departure_date": "2023-09-07T09:20:00.000Z"
+    "updated_departure_date": "2023-09-07T00:00:00.000Z"
   },
   {
     "id": 2090,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-06T15:58:00.000Z",
+    "departure_date": "2023-09-06T04:38:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 72.31,
     "flight_length": 23.37,
     "airline": "Air France",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-07T15:20:00.000Z"
+    "updated_departure_date": "2023-09-07T04:00:00.000Z"
   },
   {
     "id": 2091,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-06T15:58:00.000Z",
+    "departure_date": "2023-09-06T17:24:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 128.31,
     "flight_length": 10.36,
     "airline": "SunExpress",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-07T02:20:00.000Z"
+    "updated_departure_date": "2023-09-07T03:46:00.000Z"
   },
   {
     "id": 2092,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-07T15:58:00.000Z",
+    "departure_date": "2023-09-07T13:24:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 41.31,
     "flight_length": 16.37,
     "airline": "Air France",
     "arrival_hour": "8:53 PM",
-    "updated_departure_date": "2023-09-08T08:20:00.000Z"
+    "updated_departure_date": "2023-09-08T05:46:00.000Z"
   },
   {
     "id": 2093,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-07T15:58:00.000Z",
+    "departure_date": "2023-09-07T17:24:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 134.31,
     "flight_length": 10.36,
     "airline": "Air France",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-08T02:20:00.000Z"
+    "updated_departure_date": "2023-09-08T03:46:00.000Z"
   },
   {
     "id": 2094,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-07T15:58:00.000Z",
+    "departure_date": "2023-09-07T17:24:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 85.31,
     "flight_length": 11.36,
     "airline": "Etihad Airways",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-08T03:20:00.000Z"
+    "updated_departure_date": "2023-09-08T04:46:00.000Z"
   },
   {
     "id": 2095,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-07T15:58:00.000Z",
+    "departure_date": "2023-09-07T17:24:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 119.31,
     "flight_length": 14.36,
     "airline": "Delta Airlines",
     "arrival_hour": "6:53 PM",
-    "updated_departure_date": "2023-09-08T06:20:00.000Z"
+    "updated_departure_date": "2023-09-08T07:46:00.000Z"
   },
   {
     "id": 2096,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-07T15:58:00.000Z",
+    "departure_date": "2023-09-07T17:24:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 107.31,
     "flight_length": 6.38,
     "airline": "Pegasus",
     "arrival_hour": "10:54 AM",
-    "updated_departure_date": "2023-09-07T22:21:00.000Z"
+    "updated_departure_date": "2023-09-07T23:47:00.000Z"
   },
   {
     "id": 2097,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-08T15:58:00.000Z",
+    "departure_date": "2023-09-08T17:24:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 125.31,
     "flight_length": 8.38,
     "airline": "Etihad Airways",
     "arrival_hour": "12:54 PM",
-    "updated_departure_date": "2023-09-09T00:21:00.000Z"
+    "updated_departure_date": "2023-09-09T01:47:00.000Z"
   },
   {
     "id": 2098,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-08T15:58:00.000Z",
+    "departure_date": "2023-09-08T19:48:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 89.31,
     "flight_length": 11.38,
     "airline": "British Airways",
     "arrival_hour": "3:54 PM",
-    "updated_departure_date": "2023-09-09T03:21:00.000Z"
+    "updated_departure_date": "2023-09-09T07:11:00.000Z"
   },
   {
     "id": 2099,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-08T15:58:00.000Z",
+    "departure_date": "2023-09-08T04:37:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 44.31,
     "flight_length": 14.38,
     "airline": "Delta Airlines",
     "arrival_hour": "6:54 PM",
-    "updated_departure_date": "2023-09-09T06:21:00.000Z"
+    "updated_departure_date": "2023-09-08T19:00:00.000Z"
   },
   {
     "id": 2100,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-08T15:58:00.000Z",
+    "departure_date": "2023-09-08T06:44:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 75.31,
     "flight_length": 23.37,
     "airline": "Qatar Airways",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-09T15:20:00.000Z"
+    "updated_departure_date": "2023-09-09T06:06:00.000Z"
   },
   {
     "id": 2101,
@@ -25227,85 +25227,85 @@
     "id": 2103,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-10T15:58:00.000Z",
+    "departure_date": "2023-09-10T17:04:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 112.31,
     "flight_length": 23.37,
     "airline": "Air Canada",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-11T15:20:00.000Z"
+    "updated_departure_date": "2023-09-11T16:26:00.000Z"
   },
   {
     "id": 2104,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-10T15:58:00.000Z",
+    "departure_date": "2023-09-10T17:04:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 87.31,
     "flight_length": 11.38,
     "airline": "Delta Airlines",
     "arrival_hour": "3:54 PM",
-    "updated_departure_date": "2023-09-11T03:21:00.000Z"
+    "updated_departure_date": "2023-09-11T04:27:00.000Z"
   },
   {
     "id": 2105,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-10T15:58:00.000Z",
+    "departure_date": "2023-09-10T17:25:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 97.31,
     "flight_length": 13.38,
     "airline": "Lufthansa",
     "arrival_hour": "5:54 PM",
-    "updated_departure_date": "2023-09-11T05:21:00.000Z"
+    "updated_departure_date": "2023-09-11T06:48:00.000Z"
   },
   {
     "id": 2106,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-10T15:58:00.000Z",
+    "departure_date": "2023-09-10T18:25:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 83.31,
     "flight_length": 15.38,
     "airline": "Lufthansa",
     "arrival_hour": "7:54 PM",
-    "updated_departure_date": "2023-09-11T07:21:00.000Z"
+    "updated_departure_date": "2023-09-11T09:48:00.000Z"
   },
   {
     "id": 2107,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-10T15:58:00.000Z",
+    "departure_date": "2023-09-10T04:48:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 59.31,
     "flight_length": 13.38,
     "airline": "Air France",
     "arrival_hour": "5:54 PM",
-    "updated_departure_date": "2023-09-11T05:21:00.000Z"
+    "updated_departure_date": "2023-09-10T18:11:00.000Z"
   },
   {
     "id": 2108,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-11T15:58:00.000Z",
+    "departure_date": "2023-09-11T09:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 117.31,
     "flight_length": 11.38,
     "airline": "Anadolu Jet",
     "arrival_hour": "3:54 PM",
-    "updated_departure_date": "2023-09-12T03:21:00.000Z"
+    "updated_departure_date": "2023-09-11T20:51:00.000Z"
   },
   {
     "id": 2109,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-11T15:58:00.000Z",
+    "departure_date": "2023-09-11T04:17:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 82.31,
     "flight_length": 17.37,
     "airline": "Turkish Airlines",
     "arrival_hour": "9:53 PM",
-    "updated_departure_date": "2023-09-12T09:20:00.000Z"
+    "updated_departure_date": "2023-09-11T21:39:00.000Z"
   },
   {
     "id": 2110,
@@ -25323,73 +25323,73 @@
     "id": 2111,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-11T15:58:00.000Z",
+    "departure_date": "2023-09-11T07:23:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 47.31,
     "flight_length": 7.38,
     "airline": "Pegasus",
     "arrival_hour": "11:54 AM",
-    "updated_departure_date": "2023-09-11T23:21:00.000Z"
+    "updated_departure_date": "2023-09-11T14:46:00.000Z"
   },
   {
     "id": 2112,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-11T15:58:00.000Z",
+    "departure_date": "2023-09-11T01:17:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 72.31,
     "flight_length": 19.37,
     "airline": "Etihad Airways",
     "arrival_hour": "11:53 PM",
-    "updated_departure_date": "2023-09-12T11:20:00.000Z"
+    "updated_departure_date": "2023-09-11T20:39:00.000Z"
   },
   {
     "id": 2113,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-11T15:58:00.000Z",
+    "departure_date": "2023-09-11T03:53:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 108.31,
     "flight_length": 23.37,
     "airline": "Lufthansa",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-12T15:20:00.000Z"
+    "updated_departure_date": "2023-09-12T03:15:00.000Z"
   },
   {
     "id": 2114,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-12T15:58:00.000Z",
+    "departure_date": "2023-09-12T17:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 55.31,
     "flight_length": 6.38,
     "airline": "KLM",
     "arrival_hour": "10:54 AM",
-    "updated_departure_date": "2023-09-12T22:21:00.000Z"
+    "updated_departure_date": "2023-09-12T23:51:00.000Z"
   },
   {
     "id": 2115,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-12T15:58:00.000Z",
+    "departure_date": "2023-09-12T17:54:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 84.31,
     "flight_length": 19.37,
     "airline": "British Airways",
     "arrival_hour": "11:53 PM",
-    "updated_departure_date": "2023-09-13T11:20:00.000Z"
+    "updated_departure_date": "2023-09-13T13:16:00.000Z"
   },
   {
     "id": 2116,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-12T15:58:00.000Z",
+    "departure_date": "2023-09-12T18:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 78.31,
     "flight_length": 17.37,
     "airline": "Etihad Airways",
     "arrival_hour": "9:53 PM",
-    "updated_departure_date": "2023-09-13T09:20:00.000Z"
+    "updated_departure_date": "2023-09-13T11:50:00.000Z"
   },
   {
     "id": 2117,
@@ -25431,37 +25431,37 @@
     "id": 2120,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-13T15:58:00.000Z",
+    "departure_date": "2023-09-13T05:58:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 106.31,
     "flight_length": 9.38,
     "airline": "Air France",
     "arrival_hour": "1:54 PM",
-    "updated_departure_date": "2023-09-14T01:21:00.000Z"
+    "updated_departure_date": "2023-09-13T15:21:00.000Z"
   },
   {
     "id": 2121,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-13T15:58:00.000Z",
+    "departure_date": "2023-09-13T05:27:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 124.31,
     "flight_length": 12.38,
     "airline": "Air France",
     "arrival_hour": "4:54 PM",
-    "updated_departure_date": "2023-09-14T04:21:00.000Z"
+    "updated_departure_date": "2023-09-13T17:50:00.000Z"
   },
   {
     "id": 2122,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-13T15:58:00.000Z",
+    "departure_date": "2023-09-13T09:37:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 79.31,
     "flight_length": 12.37,
     "airline": "Lufthansa",
     "arrival_hour": "4:53 PM",
-    "updated_departure_date": "2023-09-14T04:20:00.000Z"
+    "updated_departure_date": "2023-09-13T21:59:00.000Z"
   },
   {
     "id": 2123,
@@ -25479,193 +25479,193 @@
     "id": 2124,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-14T15:58:00.000Z",
+    "departure_date": "2023-09-14T18:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 75.31,
     "flight_length": 8.37,
     "airline": "Air Canada",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-15T00:20:00.000Z"
+    "updated_departure_date": "2023-09-15T02:50:00.000Z"
   },
   {
     "id": 2125,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-14T15:58:00.000Z",
+    "departure_date": "2023-09-14T18:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 35.31,
     "flight_length": 15.37,
     "airline": "Anadolu Jet",
     "arrival_hour": "7:53 PM",
-    "updated_departure_date": "2023-09-15T07:20:00.000Z"
+    "updated_departure_date": "2023-09-15T09:50:00.000Z"
   },
   {
     "id": 2126,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-14T15:58:00.000Z",
+    "departure_date": "2023-09-14T18:44:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 109.31,
     "flight_length": 11.37,
     "airline": "American Airlines",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-15T03:20:00.000Z"
+    "updated_departure_date": "2023-09-15T06:06:00.000Z"
   },
   {
     "id": 2127,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-14T15:58:00.000Z",
+    "departure_date": "2023-09-14T19:38:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 57.31,
     "flight_length": 17.37,
     "airline": "Delta Airlines",
     "arrival_hour": "9:53 PM",
-    "updated_departure_date": "2023-09-15T09:20:00.000Z"
+    "updated_departure_date": "2023-09-15T13:00:00.000Z"
   },
   {
     "id": 2128,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-15T15:58:00.000Z",
+    "departure_date": "2023-09-15T19:38:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 91.31,
     "flight_length": 16.37,
     "airline": "Qatar Airways",
     "arrival_hour": "8:53 PM",
-    "updated_departure_date": "2023-09-16T08:20:00.000Z"
+    "updated_departure_date": "2023-09-16T12:00:00.000Z"
   },
   {
     "id": 2129,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-15T15:58:00.000Z",
+    "departure_date": "2023-09-15T15:33:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 44.31,
     "flight_length": 21.37,
     "airline": "Delta Airlines",
     "arrival_hour": "1:53 PM",
-    "updated_departure_date": "2023-09-16T13:20:00.000Z"
+    "updated_departure_date": "2023-09-16T12:55:00.000Z"
   },
   {
     "id": 2130,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-15T15:58:00.000Z",
+    "departure_date": "2023-09-15T16:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 66.31,
     "flight_length": 20.37,
     "airline": "SunExpress",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-16T12:20:00.000Z"
+    "updated_departure_date": "2023-09-16T12:50:00.000Z"
   },
   {
     "id": 2131,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-15T15:58:00.000Z",
+    "departure_date": "2023-09-15T16:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 90.31,
     "flight_length": 16.37,
     "airline": "Air France",
     "arrival_hour": "8:53 PM",
-    "updated_departure_date": "2023-09-16T08:20:00.000Z"
+    "updated_departure_date": "2023-09-16T08:50:00.000Z"
   },
   {
     "id": 2132,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-15T15:58:00.000Z",
+    "departure_date": "2023-09-15T17:58:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 44.31,
     "flight_length": 10.37,
     "airline": "American Airlines",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-16T02:20:00.000Z"
+    "updated_departure_date": "2023-09-16T04:20:00.000Z"
   },
   {
     "id": 2133,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T12:58:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 124.31,
     "flight_length": 18.37,
     "airline": "Emirates",
     "arrival_hour": "10:53 PM",
-    "updated_departure_date": "2023-09-17T10:20:00.000Z"
+    "updated_departure_date": "2023-09-17T07:20:00.000Z"
   },
   {
     "id": 2134,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T12:25:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 81.31,
     "flight_length": 12.37,
     "airline": "KLM",
     "arrival_hour": "4:53 PM",
-    "updated_departure_date": "2023-09-17T04:20:00.000Z"
+    "updated_departure_date": "2023-09-17T00:47:00.000Z"
   },
   {
     "id": 2135,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T12:25:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 107.31,
     "flight_length": 23.37,
     "airline": "Turkish Airlines",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-17T15:20:00.000Z"
+    "updated_departure_date": "2023-09-17T11:47:00.000Z"
   },
   {
     "id": 2136,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T12:38:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 52.31,
     "flight_length": 20.37,
     "airline": "SunExpress",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-17T12:20:00.000Z"
+    "updated_departure_date": "2023-09-17T09:00:00.000Z"
   },
   {
     "id": 2137,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T03:24:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 74.31,
     "flight_length": 7.37,
     "airline": "KLM",
     "arrival_hour": "11:53 AM",
-    "updated_departure_date": "2023-09-16T23:20:00.000Z"
+    "updated_departure_date": "2023-09-16T10:46:00.000Z"
   },
   {
     "id": 2138,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T03:24:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 130.31,
     "flight_length": 14.37,
     "airline": "Delta Airlines",
     "arrival_hour": "6:53 PM",
-    "updated_departure_date": "2023-09-17T06:20:00.000Z"
+    "updated_departure_date": "2023-09-16T17:46:00.000Z"
   },
   {
     "id": 2139,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-16T15:58:00.000Z",
+    "departure_date": "2023-09-16T13:24:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 82.31,
     "flight_length": 8.37,
     "airline": "Turkish Airlines",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-17T00:20:00.000Z"
+    "updated_departure_date": "2023-09-16T21:46:00.000Z"
   },
   {
     "id": 2140,
@@ -25707,229 +25707,229 @@
     "id": 2143,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-17T15:58:00.000Z",
+    "departure_date": "2023-09-17T11:48:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 123.31,
     "flight_length": 11.37,
     "airline": "Air France",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-18T03:20:00.000Z"
+    "updated_departure_date": "2023-09-17T23:10:00.000Z"
   },
   {
     "id": 2144,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-17T15:58:00.000Z",
+    "departure_date": "2023-09-17T11:48:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 106.31,
     "flight_length": 8.37,
     "airline": "Emirates",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-18T00:20:00.000Z"
+    "updated_departure_date": "2023-09-17T20:10:00.000Z"
   },
   {
     "id": 2145,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-17T15:58:00.000Z",
+    "departure_date": "2023-09-17T11:33:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 108.31,
     "flight_length": 9.37,
     "airline": "Delta Airlines",
     "arrival_hour": "1:53 PM",
-    "updated_departure_date": "2023-09-18T01:20:00.000Z"
+    "updated_departure_date": "2023-09-17T20:55:00.000Z"
   },
   {
     "id": 2146,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-17T15:58:00.000Z",
+    "departure_date": "2023-09-17T17:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 108.31,
     "flight_length": 23.37,
     "airline": "Lufthansa",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-18T15:20:00.000Z"
+    "updated_departure_date": "2023-09-18T16:50:00.000Z"
   },
   {
     "id": 2147,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-17T15:58:00.000Z",
+    "departure_date": "2023-09-17T18:58:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 113.31,
     "flight_length": 22.37,
     "airline": "Lufthansa",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-18T14:20:00.000Z"
+    "updated_departure_date": "2023-09-18T17:20:00.000Z"
   },
   {
     "id": 2148,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-18T15:58:00.000Z",
+    "departure_date": "2023-09-18T19:58:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 132.31,
     "flight_length": 19.37,
     "airline": "SunExpress",
     "arrival_hour": "11:53 PM",
-    "updated_departure_date": "2023-09-19T11:20:00.000Z"
+    "updated_departure_date": "2023-09-19T15:20:00.000Z"
   },
   {
     "id": 2149,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-18T15:58:00.000Z",
+    "departure_date": "2023-09-18T19:38:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 65.31,
     "flight_length": 6.37,
     "airline": "Air Canada",
     "arrival_hour": "10:53 AM",
-    "updated_departure_date": "2023-09-18T22:20:00.000Z"
+    "updated_departure_date": "2023-09-19T02:00:00.000Z"
   },
   {
     "id": 2150,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-18T15:58:00.000Z",
+    "departure_date": "2023-09-18T19:38:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 102.31,
     "flight_length": 11.37,
     "airline": "Aeroflot",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-19T03:20:00.000Z"
+    "updated_departure_date": "2023-09-19T07:00:00.000Z"
   },
   {
     "id": 2151,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-18T15:58:00.000Z",
+    "departure_date": "2023-09-18T19:36:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 64.31,
     "flight_length": 21.37,
     "airline": "Etihad Airways",
     "arrival_hour": "1:53 PM",
-    "updated_departure_date": "2023-09-19T13:20:00.000Z"
+    "updated_departure_date": "2023-09-19T16:58:00.000Z"
   },
   {
     "id": 2152,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-18T15:58:00.000Z",
+    "departure_date": "2023-09-18T10:58:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 91.31,
     "flight_length": 10.37,
     "airline": "Etihad Airways",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-19T02:20:00.000Z"
+    "updated_departure_date": "2023-09-18T21:20:00.000Z"
   },
   {
     "id": 2153,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-19T15:58:00.000Z",
+    "departure_date": "2023-09-19T10:21:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 77.31,
     "flight_length": 7.37,
     "airline": "Pegasus",
     "arrival_hour": "11:53 AM",
-    "updated_departure_date": "2023-09-19T23:20:00.000Z"
+    "updated_departure_date": "2023-09-19T17:43:00.000Z"
   },
   {
     "id": 2154,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-19T15:58:00.000Z",
+    "departure_date": "2023-09-19T14:32:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 121.31,
     "flight_length": 21.37,
     "airline": "Delta Airlines",
     "arrival_hour": "1:53 PM",
-    "updated_departure_date": "2023-09-20T13:20:00.000Z"
+    "updated_departure_date": "2023-09-20T11:54:00.000Z"
   },
   {
     "id": 2155,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-19T15:58:00.000Z",
+    "departure_date": "2023-09-19T09:21:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 131.31,
     "flight_length": 15.37,
     "airline": "KLM",
     "arrival_hour": "7:53 PM",
-    "updated_departure_date": "2023-09-20T07:20:00.000Z"
+    "updated_departure_date": "2023-09-20T00:43:00.000Z"
   },
   {
     "id": 2156,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-19T15:58:00.000Z",
+    "departure_date": "2023-09-19T06:18:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 94.31,
     "flight_length": 19.37,
     "airline": "SunExpress",
     "arrival_hour": "11:53 PM",
-    "updated_departure_date": "2023-09-20T11:20:00.000Z"
+    "updated_departure_date": "2023-09-20T01:40:00.000Z"
   },
   {
     "id": 2157,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-19T15:58:00.000Z",
+    "departure_date": "2023-09-19T22:08:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 81.31,
     "flight_length": 20.37,
     "airline": "Pegasus",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-20T12:20:00.000Z"
+    "updated_departure_date": "2023-09-20T18:30:00.000Z"
   },
   {
     "id": 2158,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-20T15:58:00.000Z",
+    "departure_date": "2023-09-20T15:27:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 130.31,
     "flight_length": 23.37,
     "airline": "Air Canada",
     "arrival_hour": "3:53 PM",
-    "updated_departure_date": "2023-09-21T15:20:00.000Z"
+    "updated_departure_date": "2023-09-21T14:49:00.000Z"
   },
   {
     "id": 2159,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-20T15:58:00.000Z",
+    "departure_date": "2023-09-20T05:58:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 110.31,
     "flight_length": 16.37,
     "airline": "Emirates",
     "arrival_hour": "8:53 PM",
-    "updated_departure_date": "2023-09-21T08:20:00.000Z"
+    "updated_departure_date": "2023-09-20T22:20:00.000Z"
   },
   {
     "id": 2160,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-20T15:58:00.000Z",
+    "departure_date": "2023-09-20T17:21:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 123.31,
     "flight_length": 8.37,
     "airline": "British Airways",
     "arrival_hour": "12:53 PM",
-    "updated_departure_date": "2023-09-21T00:20:00.000Z"
+    "updated_departure_date": "2023-09-21T01:43:00.000Z"
   },
   {
     "id": 2161,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-20T15:58:00.000Z",
+    "departure_date": "2023-09-20T16:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 81.31,
     "flight_length": 19.37,
     "airline": "KLM",
     "arrival_hour": "11:53 PM",
-    "updated_departure_date": "2023-09-21T11:20:00.000Z"
+    "updated_departure_date": "2023-09-21T11:50:00.000Z"
   },
   {
     "id": 2162,
@@ -25983,37 +25983,37 @@
     "id": 2166,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-22T15:58:00.000Z",
+    "departure_date": "2023-09-22T18:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 95.31,
     "flight_length": 12.37,
     "airline": "Delta Airlines",
     "arrival_hour": "4:53 PM",
-    "updated_departure_date": "2023-09-23T04:20:00.000Z"
+    "updated_departure_date": "2023-09-23T06:50:00.000Z"
   },
   {
     "id": 2167,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-22T15:58:00.000Z",
+    "departure_date": "2023-09-22T18:34:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 39.31,
     "flight_length": 10.37,
     "airline": "Etihad Airways",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-23T02:20:00.000Z"
+    "updated_departure_date": "2023-09-23T04:56:00.000Z"
   },
   {
     "id": 2168,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-22T15:58:00.000Z",
+    "departure_date": "2023-09-22T18:53:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 39.31,
     "flight_length": 10.37,
     "airline": "Etihad Airways",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-23T02:20:00.000Z"
+    "updated_departure_date": "2023-09-23T05:15:00.000Z"
   },
   {
     "id": 2169,
@@ -26025,30 +26025,30 @@
     "flight_length": 10.37,
     "airline": "Etihad Airways",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-23T02:20:00.000Z"
+    "updated_departure_date": "2023-09-24T02:20:00.000Z"
   },
   {
     "id": 2170,
     "departure_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul",
     "arrival_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
-    "departure_date": "2023-09-21T15:58:00.000Z",
+    "departure_date": "2023-09-21T17:28:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 39.31,
     "flight_length": 10.37,
     "airline": "Etihad Airways",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-23T02:20:00.000Z"
+    "updated_departure_date": "2023-09-22T03:50:00.000Z"
   },
   {
     "id": 2171,
     "departure_airport": "(SAW) Sabiha Gökçen Havalimanı İstanbul",
     "arrival_airport": "(ISL) İstanbul Atatürk Havalimanı İstanbul ",
-    "departure_date": "2023-09-22T15:58:00.000Z",
+    "departure_date": "2023-09-22T12:18:00.000Z",
     "departure_hour": "4:31 PM",
     "price": 39.31,
     "flight_length": 10.37,
     "airline": "Etihad Airways",
     "arrival_hour": "2:53 PM",
-    "updated_departure_date": "2023-09-23T02:20:00.000Z"
+    "updated_departure_date": "2023-09-22T22:40:00.000Z"
   }
 ]
