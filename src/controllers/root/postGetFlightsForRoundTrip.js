@@ -19,7 +19,7 @@ const postGetFlightsForRoundTrip = (req, res) => {
   if (!json.departureDate) {
     missingFields.push("Departure Date");
   }
-  if (!json.arrDate) {
+  if (!json.returnDate) {
     missingFields.push("Arrival Date");
   }
 
@@ -47,7 +47,9 @@ const postGetFlightsForRoundTrip = (req, res) => {
     );
   });
 
-  res.json({ outboundFlights, returnFlights });
+  const resultArray = [outboundFlights, returnFlights];
+
+  res.json(resultArray);
 };
 
 export default postGetFlightsForRoundTrip;
