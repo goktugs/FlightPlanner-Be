@@ -10,7 +10,7 @@ You should copy `.env.sample` to `.env` and then:
 
 ## Routes
 
-root.get("/api/getAllFlights")
+root.get("/api/getAllFlights") /b
 root.get("/api/getAllAirports")
 root.post("/api/getFlightsForOneWay")
 root.post("/api/getFlightsForRoundTrip")
